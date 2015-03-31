@@ -1,0 +1,25 @@
+{
+  "globals": {
+    "title": "DevGroups",
+    "description": "A huge list of developer groups around the world",
+    "author": "Caio Ribeiro Pereira",
+    "email": "caio.ribeiro.pereira@gmail.com",
+    "root_url": {
+      "development": "http://localhost:3000/",
+      "production": "http://devgroups.org/"
+    },
+    "devfreecasts": {
+      "title": "DevFreeCasts",
+      "about": "A huge collection of free screencasts for developers",
+      "url": "http://devfreecasts.org?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
+    },
+    "devfreebooks": {
+      "title": "DevFreeBooks",
+      "about": "A huge collection of free books for developers",
+      "url": "http://devfreebooks.org?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
+    },
+    "utm": "utm_source=devgroups&utm_medium=medium&utm_campaign=DevGroups",
+    "platforms": ["nodejs", "angularjs", "javascript", 
+                  "meteor", "go"]
+  }
+}
