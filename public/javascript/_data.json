@@ -1,0 +1,21 @@
+{
+  "index": {
+    "name": "javascript",
+    "subtitle": "JavaScript",
+    "about": "JavaScript is a lightweight, interpreted, object-oriented language with first-class functions, most known as the scripting language for Web pages, but used in many non-browser environments as well such as Node.js or Apache CouchDB. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.",
+    "site": "https://developer.mozilla.org/en/docs/Web/JavaScript",
+    "image": "javascript.jpg",
+    "description": "See all main JavaScript communities around the world",
+    "devgroups": [
+      {
+        "title": "EchoJS",
+        "url": "http://www.echojs.com",
+        "description": "Echo JS is a community-driven news site entirely focused on JavaScript development, HTML5, and front-end news.",
+        "lang": "EN-US",
+        "channel": "Site",
+        "publish": true,
+        "published_at": "20150331"
+      }
+    ]
+  }
+}

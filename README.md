@@ -15,13 +15,15 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
   "about": "Platform description",
   "site": "url of the official platform site", 
   "image": "platform-logo.jpg",
-  "groups": [
+  "description": "Short 140 chars for SEO purporses",
+  "devgroups": [
     {
-      "title" : "Group name", 
+      "title" : "Group's name", 
+      "description": "Group's description",
       "url": "group's url",
       "image": "group-logo.jpg",// 350x195 size
       "lang": "group language. Ex.: EN, PT-BR, ES..",
-      "channel": "facebook, linkedin, reddit, google+ or site",
+      "channel": "Facebook, LinkedIn, Google Groups, Google+ or Site",
       "publish": true, // Publish to devgroups site
       "published_at": "20150330" // Current publish date in format YYYYMMDD
     }
@@ -41,13 +43,15 @@ Look this example (`public/nodejs/_data.json`):
     "about": "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
     "site": "http://nodejs.org",
     "image": "nodejs.png",
-    "groups": [
+    "description": "Meet the main Node communities around the world",
+    "devgroups": [
       {
         "title" : "Echo JS",
+        "description": "Echo JS is a community-driven news site entirely focused on JavaScript development, HTML5, and front-end news.",
         "url": "http://www.echojs.com",
         "image": "echojs.jpg",
         "lang": "en",
-        "channel": "site",
+        "channel": "Site",
         "publish": true,
         "published_at": "20150330"
       }

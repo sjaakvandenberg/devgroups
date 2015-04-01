@@ -1,0 +1,21 @@
+{
+  "index": {
+    "name": "nodejs",
+    "subtitle": "Node.js",
+    "about": "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
+    "site": "http://nodejs.org",
+    "image": "nodejs.jpg",
+    "description": "See all main Node.js communities around the world",
+    "devgroups": [
+      {
+        "title": "Node BR",
+        "url": "https://groups.google.com/forum/#!forum/nodebr",
+        "description": "This is a brazilian public discussion list for Node.js.",
+        "lang": "PT-BR",
+        "channel": "Google Groups",
+        "publish": true,
+        "published_at": "20150331"
+      }
+    ]
+  }
+}

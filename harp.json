@@ -19,7 +19,6 @@
       "url": "http://devfreebooks.org?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
     },
     "utm": "utm_source=devgroups&utm_medium=medium&utm_campaign=DevGroups",
-    "platforms": ["nodejs", "angularjs", "javascript", 
-                  "meteor", "go"]
+    "platforms": ["nodejs", "javascript", "meteor", "go"]
   }
 }
