@@ -11,12 +11,12 @@
     "devfreecasts": {
       "title": "DevFreeCasts",
       "about": "A huge collection of free screencasts for developers",
-      "url": "http://devfreecasts.org?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
+      "url": "http://devfreecasts.org?utm_source=devgroups&utm_medium=medium&utm_campaign=DevGroups"
     },
     "devfreebooks": {
       "title": "DevFreeBooks",
       "about": "A huge collection of free books for developers",
-      "url": "http://devfreebooks.org?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
+      "url": "http://devfreebooks.org?utm_source=devgroups&utm_medium=medium&utm_campaign=DevGroups"
     },
     "utm": "utm_source=devgroups&utm_medium=medium&utm_campaign=DevGroups",
     "platforms": ["nodejs", "javascript", "meteor", "go"]
