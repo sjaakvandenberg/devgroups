@@ -8,7 +8,8 @@ section.row
   each devgroup in devgroups
     if !!devgroup.publish
       - var devgroup_id = devgroup.title.replace(/[^\w\s]/g, "").replace(/\s/g, "-").toLowerCase()
-      - var devgroup_url = devgroup.url + (devgroup.url.indexOf("?") >= 0 ? "&" : "?") + utm;
+      // Fix this url bug
+      - var devgroup_url = devgroup.url // + (devgroup.url.indexOf("?") >= 0 ? "&" : "?") + ""; 
       - var devgroup_image = image_path + (devgroup.image ? devgroup.image : image)
       - var devgroup_thumb_url = root_url[environment] + name + '#' + devgroup_id;
       - var devgroup_thumb_title = "DevGroup: "+ devgroup.title;
