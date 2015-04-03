@@ -8,6 +8,13 @@
       "development": "http://localhost:3000/",
       "production": "http://devgroups.org/"
     },
+    "channel": {
+      "s": "Site",
+      "gg": "Google Groups",
+      "gc": "Google+ Community",
+      "fg": "Facebook Groups",
+      "lg": "LinkedIn Groups"
+    },
     "devfreecasts": {
       "title": "DevFreeCasts",
       "about": "A huge collection of free screencasts for developers",
@@ -19,6 +26,8 @@
       "url": "http://devfreebooks.org?utm_source=devgroups&utm_medium=medium&utm_campaign=DevGroups"
     },
     "utm": "utm_source=devgroups&utm_medium=medium&utm_campaign=DevGroups",
-    "platforms": ["nodejs", "javascript", "meteor", "go"]
+    "platforms": ["nodejs", "javascript", "meteor", 
+                  "go", "react", "angularjs",
+                  "elixir"]
   }
 }

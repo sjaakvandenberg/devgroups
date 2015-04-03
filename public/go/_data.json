@@ -8,11 +8,38 @@
     "description": "See all main Golang communities around the world",
     "devgroups": [
       {
+        "title": "Golang Nuts LinkedIn",
+        "url": "https://www.linkedin.com/groups/Golang-nuts-3712244",
+        "description": "This is a LinkedIn group for the Go Programming Language.",
+        "lang": "EN-US",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Golang Brasil LinkedIn",
+        "url": "https://www.linkedin.com/groups?gid=8147212",
+        "description": "A brazilian LinkedIn group for the Golang developers.",
+        "lang": "PT-BR",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Golang Code Reviews",
+        "url": "https://groups.google.com/forum/#!forum/golang-codereviews",
+        "description": "A group list for Golang's code reviewers",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
         "title": "Golang Brasil",
         "url": "https://groups.google.com/forum/#!forum/golang-brasil",
         "description": "The Golang Brasil is a discussion list for brazilian developers who works with Go Programming Language.",
         "lang": "PT-BR",
-        "channel": "Google Groups",
+        "channel": "gg",
         "publish": true,
         "published_at": "20150331"
       },
@@ -21,7 +48,7 @@
         "url": "https://groups.google.com/forum/#!forum/golang-dev",
         "description": "This list is for discussion of the development of the Go project.",
         "lang": "EN-US",
-        "channel": "Google Groups",
+        "channel": "gg",
         "publish": true,
         "published_at": "20150331"
       },
@@ -30,7 +57,7 @@
         "url": "https://groups.google.com/forum/#!forum/golang-nuts",
         "description": "The Golang Nuts is a general discussion list for the Go Programming Language.",
         "lang": "EN-US",
-        "channel": "Google Groups",
+        "channel": "gg",
         "publish": true,
         "published_at": "20150331"
       },
@@ -39,7 +66,7 @@
         "url": "https://www.facebook.com/groups/golang.br",
         "description": "A brazilian Facebook Golang group for beginners.",
         "lang": "PT-BR",
-        "channel": "Facebook Groups",
+        "channel": "fg",
         "publish": true,
         "published_at": "20150331"
       },
@@ -48,7 +75,7 @@
         "url": "https://plus.google.com/communities/114112804251407510571",
         "description": "The Google+ community for Golang enthusiasts.",
         "lang": "EN-US",
-        "channel": "Google+",
+        "channel": "gc",
         "publish": true,
         "published_at": "20150331"
       },
@@ -57,7 +84,7 @@
         "url": "https://plus.google.com/communities/107048684925064658134",
         "description": "A brazilian Google+ community for developers who works with Golang.",
         "lang": "PT-BR",
-        "channel": "Google+",
+        "channel": "gc",
         "publish": true,
         "published_at": "20150331"
       }

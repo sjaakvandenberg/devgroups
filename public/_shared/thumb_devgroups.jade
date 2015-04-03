@@ -21,7 +21,7 @@ section.row
           div.caption
             h3.devgroup-title #{devgroup.title}
             p.devgroup-description #{devgroup.description}
-            p.devgroup-metadata Channel: <span class="label label-danger">#{devgroup.channel}</span> Lang.: <span class="label label-danger">#{devgroup.lang.toUpperCase()}</span>
+            p.devgroup-metadata Channel: <span class="label label-danger">#{channel[devgroup.channel]}</span> Lang.: <span class="label label-danger">#{devgroup.lang.toUpperCase()}</span>
             p.devgroup-metadata Share:&nbsp;
               a(href="http://www.facebook.com/sharer.php?u=#{encodeURIComponent(devgroup_thumb_url)}&t=#{encodeURIComponent(devgroup_thumb_title)}" target="_blank" rel="nofollow" class="btn btn-sm btn-primary") <i class="icon-facebook"></i>
               &nbsp;

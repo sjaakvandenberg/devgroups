@@ -12,7 +12,8 @@
         "url": "http://crater.io",
         "description": "Where Meteor news lands",
         "lang": "EN-US",
-        "channel": "Site",
+        "image": "craterio.jpg",
+        "channel": "s",
         "publish": true,
         "published_at": "20150331"
       },
@@ -21,7 +22,71 @@
         "url": "https://forums.meteor.com",
         "description": "This is a public discussion forum for Meteor, an open-source pure JavaScript platform for building web and mobile apps.",
         "lang": "EN-US",
-        "channel": "Site",
+        "channel": "s",
+        "publish": true,
+        "published_at": "20150331"
+      },
+      {
+        "title": "Meteor Community",
+        "url": "https://plus.google.com/communities/116805089624721027440",
+        "description": "A Google+ community for Meteor developers",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150331"
+      },
+      {
+        "title": "MeteorJS Brasil",
+        "url": "https://plus.google.com/communities/117971183134838927787",
+        "description": "A brazilian Google+ community for developers who loves Meteor framework.",
+        "lang": "PT-BR",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150331"
+      },
+      {
+        "title": "Meteor Brasil",
+        "url": "https://groups.google.com/forum/#!forum/meteor-brasil",
+        "description": "A public discussion list for Meteor developers from Brazil.",
+        "lang": "PT-BR",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150331"
+      },
+      {
+        "title": "Meteor Brasil Facebook",
+        "url": "https://www.facebook.com/groups/meteorbrasil/",
+        "description": "A brazilian Facebook group for Meteor developers.",
+        "lang": "PT-BR",
+        "image": "meteor-brasil-facebook.jpg",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150331"
+      },
+      {
+        "title": "Meteor Talk",
+        "url": "https://groups.google.com/forum/#!forum/meteor-talk",
+        "description": "The Meteor forum for getting help with projects, asking questions, and discussing new ideas.",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150331"
+      },
+      {
+        "title": "Meteor Core",
+        "url": "https://groups.google.com/forum/#!forum/meteor-core",
+        "description": "The Meteor forum for discussing changes to Meteor's core architecture and smart packages.",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150331"
+      },
+      {
+        "title": "Meteor LinkedIn",
+        "url": "https://www.linkedin.com/groups/Meteor-4556383",
+        "description": "A LinkedIn group for Meteor enthusiasts.",
+        "lang": "EN-US",
+        "channel": "lg",
         "publish": true,
         "published_at": "20150331"
       }

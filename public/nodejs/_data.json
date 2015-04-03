@@ -8,13 +8,76 @@
     "description": "See all main Node.js communities around the world",
     "devgroups": [
       {
+        "title": "Node.js mailing list",
+        "url": "https://groups.google.com/forum/#!forum/nodejs",
+        "description": "This is the official Node.js mailing discussion list.",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
         "title": "Node BR",
         "url": "https://groups.google.com/forum/#!forum/nodebr",
         "description": "This is a brazilian public discussion list for Node.js.",
         "lang": "PT-BR",
-        "channel": "Google Groups",
+        "channel": "gg",
         "publish": true,
         "published_at": "20150331"
+      },
+      {
+        "title": "Node.js",
+        "url": "https://plus.google.com/communities/115365528781941125390",
+        "description": "A Google+ community for Node.js developers from USA.",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "FR Node.js",
+        "url": "https://plus.google.com/communities/113346206415381691435",
+        "description": "A Google+ community for Node.js developers from France.",
+        "lang": "FR",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "NodeJS Hispano",
+        "url": "https://plus.google.com/communities/106586655202988041011",
+        "description": "A Google+ community for Node.js developers from Spain.",
+        "lang": "ES",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Node.js Brasil",
+        "url": "https://plus.google.com/communities/116527465792325761884",
+        "description": "A Google+ community for Node.js developers from Brazil.",
+        "lang": "PT-BR",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Node.js Brasil Facebook",
+        "url": "https://www.facebook.com/groups/nodejsbrasil",
+        "description": "A Facebook group for brazilian Node.js's developers.",
+        "lang": "PT-BR",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Node.js Facebook",
+        "url": "https://www.facebook.com/groups/125499867491756",
+        "description": "A Facebook group for Node.js's developers from USA.",
+        "lang": "EN-US",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
       }
     ]
   }

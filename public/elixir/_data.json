@@ -1,0 +1,57 @@
+{
+  "index": {
+    "name": "elixir",
+    "subtitle": "Elixir",
+    "about": "Elixir is a functional, meta-programming aware language built on top of the Erlang VM. It is a dynamic language that focuses on tooling to leverage Erlang's abilities to build concurrent, distributed and fault-tolerant applications with hot code upgrades.",
+    "site": "http://elixir-lang.org",
+    "image": "elixir.jpg",
+    "description": "See all main Elixir communities around the world",
+    "devgroups": [
+      {
+        "title": "Elxir Lang Talk",
+        "url": "https://groups.google.com/forum/#!forum/elixir-lang-talk",
+        "description": "The Elixir Talk mailing list is for questions, discussions and everything else related to Elixir",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Elxir Lang Core",
+        "url": "https://groups.google.com/forum/#!forum/elixir-lang-core",
+        "description": "This list is for announcements and discussions related to Elixir Core (patches, features, etc).",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Elxir Brasil",
+        "url": "https://www.facebook.com/groups/596782640402615",
+        "description": "Brazilian Facebook group for Elixir developers",
+        "lang": "PT-BR",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Elxir Programming",
+        "url": "https://www.linkedin.com/groups?gid=6530248",
+        "description": "This group is about the Elixir programming language, especially related to 'real world' use.",
+        "lang": "EN-US",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Elxir Language",
+        "url": "https://plus.google.com/communities/115770991058707869622",
+        "description": "A Google+ community for Elixir lang developers around the world",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      }
+    ]
+  }
+}

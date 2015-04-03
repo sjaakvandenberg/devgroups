@@ -1,0 +1,57 @@
+{
+  "index": {
+    "name": "react",
+    "subtitle": "React",
+    "about": "A JavaScript library for building User Interfaces. Lots of people use React as the V in MVC. Since React makes no assumptions about the rest of your technology stack, it's easy to try it out on a small feature in an existing project.",
+    "site": "http://facebook.github.io/react",
+    "image": "react.jpg",
+    "description": "See all main React communities around the world!",
+    "devgroups": [
+      {
+        "title": "React JS mailing list",
+        "url": "https://groups.google.com/forum/#!forum/reactjs",
+        "description": "A Google groups for ReactJS developers",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "ReactJS Brasil",
+        "url": "https://www.facebook.com/groups/reactjsbrasil/",
+        "description": "A Facebook groups for ReactJS developers from Brazil",
+        "lang": "PT-BR",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "React.js LinkedIn",
+        "url": "https://www.linkedin.com/groups/Reactjs-7465439",
+        "description": "A LinkedIn group for ReactJS developers",
+        "lang": "EN-US",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "React.js Facebook",
+        "url": "https://www.facebook.com/groups/228321510706889",
+        "description": "A Facebook group for ReactJS developers from USA",
+        "lang": "EN-US",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "React.js Community",
+        "url": "https://plus.google.com/communities/114822536557370957541",
+        "description": "A Google+ Community for developers who works with ReactJS framework",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      }
+    ]
+  }
+}

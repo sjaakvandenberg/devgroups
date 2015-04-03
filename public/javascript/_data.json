@@ -12,9 +12,123 @@
         "url": "http://www.echojs.com",
         "description": "Echo JS is a community-driven news site entirely focused on JavaScript development, HTML5, and front-end news.",
         "lang": "EN-US",
-        "channel": "Site",
+        "image": "echojs.jpg",
+        "channel": "s",
         "publish": true,
         "published_at": "20150331"
+      },
+      {
+        "title": "BrazilJS",
+        "url": "http://braziljs.org",
+        "description": "The most famous JavaScript community from Brazil",
+        "image": "braziljs.jpg",
+        "lang": "PT-BR",
+        "channel": "s",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "RSJS",
+        "url": "https://www.facebook.com/groups/javascript.rs/",
+        "description": "A brazilian JavaScript group for developers from Rio Grande do Sul's state.",
+        "lang": "PT-BR",
+        "image": "rsjs.jpg",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Rio.js",
+        "url": "https://www.facebook.com/groups/riojs/",
+        "description": "A brazilian JavaScript group for developers from Rio de Janeiro's state.",
+        "lang": "PT-BR",
+        "image": "riojs.jpg",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Sampa.js",
+        "url": "https://www.facebook.com/groups/sampajs/",
+        "description": "A brazilian JavaScript group for developers from São Paulo's state.",
+        "lang": "PT-BR",
+        "image": "sampajs.jpg",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Pernambuco.js",
+        "url": "https://www.facebook.com/groups/pernambucojs/",
+        "description": "A brazilian JavaScript group for developers from Pernambuco's city.",
+        "lang": "PT-BR",
+        "image": "pernambucojs.jpg",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Ceara.js",
+        "url": "https://groups.google.com/forum/#!forum/cearajs",
+        "description": "A brazilian JavaScript group for developers from Ceará's city.",
+        "lang": "PT-BR",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "JavaScript Brasil Groups",
+        "url": "https://groups.google.com/forum/#!forum/javascriptbrasil",
+        "description": "A brazilian Google Groups about JavaScript",
+        "lang": "PT-BR",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "JavaScript LinkedIn",
+        "url": "https://www.linkedin.com/groups/Javascript-121615",
+        "description": "A big LinkedIn group about JavaScript",
+        "lang": "EN-US",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "JavaScript Brasil LinkedIn",
+        "url": "https://www.linkedin.com/groups/JavaScript-Brasil-3874473",
+        "description": "A LinkedIn group about JavaScript from Brasil",
+        "lang": "EN-US",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "JS",
+        "url": "https://plus.google.com/communities/104314291785743188818",
+        "description": "A Google+ community about JavaScript.",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "JavaScript",
+        "url": "https://plus.google.com/communities/100875929141897651837",
+        "description": "Another Google+ community about JavaScript.",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "JavaScript Brasil",
+        "url": "https://plus.google.com/communities/111015742388219613791",
+        "description": "A brazilian Google+ community about JavaScript.",
+        "lang": "PT-BR",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
       }
     ]
   }

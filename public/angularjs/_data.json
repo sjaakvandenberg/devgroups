@@ -1,0 +1,85 @@
+{
+  "index": {
+    "name": "angularjs",
+    "subtitle": "AngularJS",
+    "about": "AngularJS is a toolset for building the framework most suited to your application development. It is fully extensible and works well with other libraries. Every feature can be modified or replaced to suit your unique development workflow and feature needs.",
+    "site": "https://angularjs.org",
+    "image": "angularjs.jpg",
+    "description": "See all main Angular.js communities around the world!",
+    "devgroups": [
+      {
+        "title": "Official AngularJS mailing list",
+        "url": "https://groups.google.com/forum/#!forum/angular",
+        "description": "The official public discussion list for AngularJS framework.",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "AngularJS Developers",
+        "url": "https://www.facebook.com/groups/angularjs.dev",
+        "description": "A big Facebook community for Angular.js framework.",
+        "lang": "EN-US",
+        "image": "angularjs-developers.jpg",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "AngularJS Brasil",
+        "url": "https://www.facebook.com/groups/angularjsbrasil",
+        "description": "A Facebook group for AngularJS developers from Brazil.",
+        "lang": "PT-BR",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "AngularJS Developers LinkedIn",
+        "url": "https://www.linkedin.com/groups/AngularJS-Developers-4896676",
+        "description": "A LinkedIn group for AngularJS developers around the world.",
+        "lang": "EN-US",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "AngularJS LinkedIn",
+        "url": "https://www.linkedin.com/groups/Angularjs-5010991",
+        "description": "Another big LinkedIn group for AngularJS developers.",
+        "lang": "EN-US",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "AngularJS Google+",
+        "url": "https://plus.google.com/communities/115368820700870330756",
+        "description": "A Google+ community for AngularJS developers.",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "AngularJS Brasil Google+",
+        "url": "https://plus.google.com/communities/110372004895086149874",
+        "description": "A Google+ community for AngularJS developers from Brazil.",
+        "lang": "PT-BR",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "AngularJS Brazil Mailing list",
+        "url": "https://groups.google.com/forum/#!members/angularjs-brazil",
+        "description": "A brazilian public discussion list for AngularJS framework.",
+        "lang": "PT-BR",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      }
+    ]
+  }
+}
