@@ -1,10 +1,11 @@
 CACHE MANIFEST
-# rev 1 - 2015-04-02T14:17:07.429Z
+# rev 1 - 2015-04-03T17:11:49.755Z
 
 CACHE:
 http://devgroups.org/404.html
 http://devgroups.org/CNAME
 http://devgroups.org/about/index.html
+http://devgroups.org/angularjs/index.html
 http://devgroups.org/assets/css/application.css
 http://devgroups.org/assets/css/application.gz.css
 http://devgroups.org/assets/font/icon.eot
@@ -15,25 +16,39 @@ http://devgroups.org/assets/font/opensans.eot
 http://devgroups.org/assets/font/opensans.svg
 http://devgroups.org/assets/font/opensans.ttf
 http://devgroups.org/assets/font/opensans.woff
+http://devgroups.org/assets/images/angularjs-developers.jpg
+http://devgroups.org/assets/images/angularjs.jpg
+http://devgroups.org/assets/images/braziljs.jpg
+http://devgroups.org/assets/images/craterio.jpg
 http://devgroups.org/assets/images/devgroups-128.png
 http://devgroups.org/assets/images/devgroups-thumb.png
 http://devgroups.org/assets/images/devgroups.png
+http://devgroups.org/assets/images/echojs.jpg
+http://devgroups.org/assets/images/elixir.jpg
 http://devgroups.org/assets/images/go.jpg
 http://devgroups.org/assets/images/javascript.jpg
+http://devgroups.org/assets/images/meteor-brasil-facebook.jpg
 http://devgroups.org/assets/images/meteor.jpg
 http://devgroups.org/assets/images/nodejs.jpg
+http://devgroups.org/assets/images/pernambucojs.jpg
+http://devgroups.org/assets/images/react.jpg
+http://devgroups.org/assets/images/riojs.jpg
+http://devgroups.org/assets/images/rsjs.jpg
+http://devgroups.org/assets/images/sampajs.jpg
 http://devgroups.org/assets/js/aightjs.gz.js
 http://devgroups.org/assets/js/aightjs.min.js
 http://devgroups.org/assets/js/application.gz.js
 http://devgroups.org/assets/js/application.js
 http://devgroups.org/assets/js/html5shiv.gz.js
 http://devgroups.org/assets/js/html5shiv.min.js
+http://devgroups.org/elixir/index.html
 http://devgroups.org/favicon.ico
 http://devgroups.org/go/index.html
 http://devgroups.org/index.html
 http://devgroups.org/javascript/index.html
 http://devgroups.org/meteor/index.html
 http://devgroups.org/nodejs/index.html
+http://devgroups.org/react/index.html
 http://devgroups.org/robots.txt
 http://devgroups.org/rss.xml
 
