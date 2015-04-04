@@ -26,7 +26,7 @@
       "url": "http://devfreebooks.org?utm_source=devgroups&utm_medium=medium&utm_campaign=DevGroups"
     },
     "utm": "utm_source=devgroups&utm_medium=medium&utm_campaign=DevGroups",
-    "platforms": ["nodejs", "javascript", "meteor", 
+    "platforms": ["bitcoin", "nodejs", "javascript", "meteor", 
                   "go", "react", "angularjs",
                   "elixir"]
   }

@@ -1,0 +1,22 @@
+{
+  "index": {
+    "name": "bitcoin",
+    "subtitle": "Bitcoin",
+    "about": "Bitcoin is an innovative payment network and a new kind of money. Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network.",
+    "site": "https://bitcoin.org",
+    "image": "bitcoin.jpg",
+    "description": "See all main Bitcoin communities around the world",
+    "devgroups": [
+      {
+        "title": "BitcoinTalk",
+        "url": "https://bitcointalk.org",
+        "description": "The main Bitcoin discussion forum, includes subforums for technical support, mining, development and economics.",
+        "lang": "EN-US",
+        "image": "bitcointalk.jpg",
+        "channel": "Site",
+        "publish": true,
+        "published_at": "20110623"
+      }
+    ]
+  }
+}
